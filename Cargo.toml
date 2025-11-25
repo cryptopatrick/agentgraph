@@ -1,16 +1,16 @@
 [package]
 name = "agentgraph"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["CryptoPatrick <cryptopatrick@gmail.com>"]
 
 ###############################################################################
-description = ""Interface for agent graph persistence""
+description = "Interface for agent graph persistence."
 documentation = "https://docs.rs/agentgraph"
 homepage = "https://github.com/cryptopatrick/agentgraph"
 repository = "https://github.com/cryptopatrick/agentgraph"
 readme = "README.md"
-keywords = ["<KEYWORD1>", "<KEYWORD2>" ]
+keywords = ["AI", "Agent", "Persistence", "Graph"]
 license = "MIT"
 autotests = false
 
